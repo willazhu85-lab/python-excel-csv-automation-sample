@@ -1,0 +1,328 @@
+transaction date,product,category,quantity,unit price,sales amount,store
+02/26/2025,Grocery item 31,Grocery,2,4.21,8.42,Store South
+08-Feb-2025,Outdoor item 51,Outdoor,3,$65.39,£196.17,Store East
+2025/02/12,Electronics item 19,Electronics,5,$126.79,£633.95,Store West
+"Feb 23, 2025",Grocery item 39,Grocery,1,£9.30,9.30,Store South
+2025/02/05,Home item 16,Home,3,11.40,$34.20,Store South
+2025-02-12,Office item 60,Office,1,$17.32,£17.32,Store North
+03-Feb-2025,Home item 63,Home,2,13.44,£26.88,Store North
+2025-02-05,Books item 58,Books,1,14.02,$14.02,Store East
+2025-02-26,Home item 39,Home,6,23.00,£138.00,Store East
+23-Feb-2025,Home item 15,Home,3,28.91,86.73,Store South
+2025-02-15,Home item 52,Home,2,$13.80,$27.60,Store North
+2025-02-04,Electronics item 12,Electronics,4,£27.76,£111.04,Store North
+02/05/2025,Office item 84,Office,8,£7.46,59.68,Store East
+2025/02/01,Office item 65,Office,2,£8.22,16.44,Store South
+02/15/2025,Outdoor item 05,Outdoor,3,£33.33,99.99,Store South
+02/18/2025,Office item 90,Office,1,12.74,12.74,Store South
+"Feb 28, 2025",Electronics item 44,Electronics,3,$17.95,£53.85,Store South
+03/01/2025,Grocery item 35,Grocery,3,£9.26,27.78,Store North
+02/16/2025,Office item 57,Office,5,$18.02,90.10,Store South
+"Feb 26, 2025",Office item 65,Office,4,$6.97,$27.88,Store East
+2025/02/12,Home item 90,Home,4,$54.38,217.52,Store South
+2025-02-20,Office item 77,Office,1,$5.16,5.16,Store North
+02/22/2025,Home item 16,Home,4,$6.42,25.68,Store South
+10-Feb-2025,Office item 74,Office,3,$10.34,31.02,Store South
+02/02/2025,Books item 19,Books,2,13.05,26.10,Store North
+12-Feb-2025,Electronics item 11,Electronics,4,24.00,96.00,Store West
+22-Feb-2025,Home item 80,Home,5,36.14,$180.70,Store East
+2025/02/03,Home item 51,Home,4,10.78,43.12,Store East
+2025-02-02,Office item 42,Office,2,£33.70,67.40,Store North
+2025/02/16,Office item 33,Office,5,5.52,£27.60,Store North
+"Feb 17, 2025",Outdoor item 76,Outdoor,2,£18.08,$36.16,Store East
+02/04/2025,Outdoor item 67,Outdoor,6,20.09,£120.54,Store North
+2025/02/20,Electronics item 33,Electronics,2,68.15,136.30,Store North
+22-Feb-2025,Home item 10,Home,3,32.68,98.04,Store South
+2025-02-22,Home item 22,Home,4,31.44,$125.76,Store North
+2025-02-05,Books item 08,Books,3,11.36,$34.08,Store South
+"Feb 07, 2025",Electronics item 40,Electronics,2,$28.05,56.10,Store North
+2025-02-07,Outdoor item 67,Outdoor,4,16.17,64.68,Store North
+2025/02/19,Books item 36,Books,1,$13.49,$13.49,Store East
+"Feb 26, 2025",Electronics item 47,Electronics,4,£11.63,46.52,Store East
+2025/02/13,Office item 37,Office,3,$17.38,$52.14,Store North
+15-Feb-2025,Grocery item 42,Grocery,3,$4.68,14.04,Store North
+02/26/2025,Home item 46,Home,1,$9.61,£9.61,Store South
+21-Feb-2025,Outdoor item 14,Outdoor,1,£37.75,$37.75,Store North
+02/22/2025,Electronics item 52,Electronics,8,£24.93,199.44,Store North
+"Feb 14, 2025",Books item 10,Books,2,£15.72,31.44,Store North
+2025/02/16,Home item 11,Home,1,10.56,$10.56,Store East
+2025-02-08,Office item 25,Office,5,9.16,£45.80,Store East
+2025/02/23,Grocery item 74,Grocery,3,$4.81,14.43,Store North
+02/15/2025,Grocery item 62,Grocery,1,£4.27,4.27,Store South
+02-Feb-2025,Outdoor item 60,Outdoor,8,3.90,$31.20,Store South
+02/15/2025,Outdoor item 41,Outdoor,4,76.27,$305.08,Store North
+2025-02-15,Books item 23,Books,1,$26.12,$26.12,Store North
+02/28/2025,Office item 73,Office,2,£11.35,£22.70,Store West
+02/23/2025,Office item 56,Office,6,10.10,$60.60,Store South
+02/04/2025,Books item 73,Books,5,£4.77,$23.85,Store South
+"Feb 03, 2025",Electronics item 56,Electronics,2,£79.11,£158.22,Store North
+"Mar 01, 2025",Electronics item 74,Electronics,2,$18.34,£36.68,Store East
+"Feb 18, 2025",Electronics item 58,Electronics,2,$11.51,$23.02,Store South
+"Feb 08, 2025",Electronics item 50,Electronics,4,6.25,25.00,Store West
+2025-02-15,Office item 79,Office,6,£19.62,£117.72,Store North
+"Feb 27, 2025",Grocery item 07,Grocery,6,8.64,£51.84,Store East
+"Feb 15, 2025",Office item 40,Office,3,9.59,$28.77,Store East
+"Feb 08, 2025",Grocery item 25,Grocery,4,25.63,£102.52,Store South
+2025/02/17,Office item 08,Office,3,49.08,147.24,Store North
+2025/02/09,Electronics item 48,Electronics,4,63.33,253.32,Store South
+"Feb 26, 2025",Office item 18,Office,8,7.39,59.12,Store East
+2025-02-21,Outdoor item 08,Outdoor,1,$18.48,18.48,Store North
+"Feb 08, 2025",Books item 60,Books,1,£5.61,5.61,Store South
+2025-02-08,Office item 49,Office,1,£8.27,$8.27,Store East
+15-Feb-2025,Outdoor item 80,Outdoor,3,23.77,$71.31,Store West
+07-Feb-2025,Office item 58,Office,7,$7.20,50.40,Store East
+2025/03/02,Office item 87,Office,2,9.37,18.74,Store East
+2025-02-22,Electronics item 82,Electronics,1,53.37,$53.37,Store East
+02/28/2025,Electronics item 07,Electronics,3,£9.51,$28.53,Store South
+2025/02/01,Office item 56,Office,4,£2.25,9.00,Store South
+09-Feb-2025,Books item 49,Books,3,11.23,33.69,Store East
+03-Feb-2025,Electronics item 61,Electronics,3,47.60,£142.80,Store South
+15-Feb-2025,Electronics item 10,Electronics,3,66.04,£198.12,Store North
+02/08/2025,Grocery item 24,Grocery,1,5.82,$5.82,Store South
+"Feb 16, 2025",Electronics item 47,Electronics,2,16.96,$33.92,Store East
+2025/03/02,Grocery item 15,Grocery,2,4.39,$8.78,Store North
+11-Feb-2025,Home item 56,Home,5,$20.93,£104.65,Store South
+02/24/2025,Office item 45,Office,5,9.42,$47.10,Store East
+2025-02-09,Books item 39,Books,2,£13.87,$27.74,Store South
+02/20/2025,Office item 21,Office,4,16.63,66.52,Store East
+02/03/2025,Grocery item 06,Grocery,1,$2.96,2.96,Store South
+15-Feb-2025,Electronics item 60,Electronics,-1,21.08,126.48,Store West
+2025/02/17,Grocery item 56,Grocery,1,12.59,12.59,Store West
+"Feb 24, 2025",Outdoor item 01,Outdoor,1,18.95,18.95,Store East
+2025/02/25,Outdoor item 27,Outdoor,1,$12.83,12.83,Store South
+"Feb 24, 2025",Books item 15,Books,1,$7.35,£7.35,Store East
+2025-02-12,Home item 14,Home,4,$16.45,65.80,Store North
+20-Feb-2025,Electronics item 47,Electronics,2,63.97,£127.94,Store South
+2025/02/06,Books item 63,Books,3,£5.86,$17.58,Store North
+"Mar 01, 2025",Outdoor item 71,Outdoor,5,13.58,$67.90,Store East
+2025/02/09,Office item 40,Office,3,20.58,61.74,Store North
+02/16/2025,Grocery item 45,Grocery,4,5.37,$21.48,Store South
+2025-02-01,Grocery item 38,Grocery,1,8.08,£8.08,Store South
+"Mar 02, 2025",Office item 65,Office,2,£6.15,£12.30,Store North
+2025-02-20,Office item 31,Office,4,£16.45,$65.80,Store North
+23-Feb-2025,Outdoor item 73,Outdoor,8,45.10,£360.80,Store North
+12-Feb-2025,Grocery item 37,Grocery,1,13.40,£13.40,Store North
+2025-02-12,Office item 82,Office,1,$6.71,6.71,Store West
+2025/03/01,Home item 25,Home,2,$14.67,$29.34,Store North
+2025-02-02,Home item 86,Home,2,$15.57,£31.14,Store North
+2025/02/06,Books item 65,Books,6,4.33,$25.98,Store North
+2025-02-12,Office item 46,Office,5,£18.79,93.95,Store East
+20-Feb-2025,Office item 02,Office,4,$16.64,66.56,Store North
+02/14/2025,Home item 12,Home,2,$36.49,72.98,Store South
+2025-02-24,Electronics item 61,Electronics,3,25.41,$76.24,Store South
+2025-02-23,Electronics item 57,Electronics,4,$41.53,166.12,Store West
+07-Feb-2025,Home item 30,Home,3,$8.84,26.52,Store East
+02/07/2025,Books item 47,Books,2,9.28,$18.56,Store North
+01-Mar-2025,Office item 61,Office,1,£15.63,15.63,Store North
+2025/02/20,Outdoor item 37,Outdoor,1,£53.87,$53.87,Store South
+25-Feb-2025,Electronics item 83,Electronics,3,£88.18,264.54,Store South
+02/19/2025,Office item 66,Office,7,4.82,£33.74,Store West
+14-Feb-2025,Books item 87,Books,1,3.34,3.34,Store West
+2025-02-16,Home item 78,Home,-1,16.71,50.13,Store South
+02/13/2025,Home item 26,Home,1,14.57,$14.57,Store North
+2025-02-24,Grocery item 10,Grocery,4,£2.07,8.28,Store West
+"Feb 14, 2025",Electronics item 20,Electronics,6,£56.83,£340.98,Store South
+2025-02-21,Books item 57,Books,2,26.56,53.12,Store North
+2025/02/13,Books item 60,Books,4,3.83,£15.32,Store North
+02/15/2025,Outdoor item 77,Outdoor,1,15.78,$15.78,Store East
+2025-02-08,Grocery item 47,Grocery,3,7.38,$22.14,Store East
+28-Feb-2025,Books item 69,Books,3,$7.26,£21.78,Store South
+17-Feb-2025,Books item 70,Books,1,$13.04,13.05,Store North
+2025-03-02,Home item 70,Home,2,9.23,18.46,Store South
+2025/02/14,Office item 16,Office,5,12.55,62.75,Store North
+"Feb 28, 2025",Grocery item 46,Grocery,2,3.32,£6.64,Store East
+"Mar 02, 2025",Electronics item 87,Electronics,1,$22.16,22.16,Store North
+02/16/2025,Home item 39,Home,4,$36.56,$146.24,Store North
+02/19/2025,Books item 40,Books,3,$12.06,£36.18,Store East
+08-Feb-2025,Office item 82,Office,3,£12.60,£37.80,Store East
+2025-03-02,Outdoor item 48,Outdoor,8,£6.65,£53.20,Store East
+"Feb 22, 2025",Grocery item 10,Grocery,3,£7.16,21.48,Store North
+02/23/2025,Office item 14,Office,2,$11.84,$23.68,Store West
+2025-02-08,Home item 60,Home,1,15.94,15.94,Store South
+"Feb 04, 2025",Electronics item 56,Electronics,2,16.44,£32.88,Store North
+2025-03-02,Outdoor item 08,Outdoor,1,$15.50,15.50,Store East
+2025/02/05,Office item 85,Office,4,6.25,25.00,Store North
+2025-02-01,Books item 09,Books,5,13.47,£67.35,Store East
+2025/02/09,Electronics item 28,Electronics,4,$32.46,129.84,Store East
+"Feb 07, 2025",Home item 77,Home,5,$51.08,255.40,Store West
+2025/02/21,Books item 87,Books,1,£9.70,$9.70,Store North
+02/26/2025,Books item 25,Books,4,$5.51,£22.04,Store South
+02/11/2025,Office item 65,Office,1,£4.11,$4.11,Store West
+08-Feb-2025,Electronics item 31,Electronics,1,$29.30,29.30,Store East
+15-Feb-2025,Outdoor item 69,Outdoor,3,£22.51,£67.53,Store North
+2025/02/09,Grocery item 79,Grocery,2,£6.69,13.38,Store South
+2025/02/18,Electronics item 07,Electronics,3,£46.64,139.92,Store South
+2025-02-27,Grocery item 64,Grocery,3,£8.35,25.05,Store North
+2025-02-13,Home item 33,Home,3,$17.96,53.88,Store North
+"Feb 21, 2025",Grocery item 18,Grocery,5,£4.67,£23.35,Store South
+"Feb 02, 2025",Books item 43,Books,1,8.85,8.85,Store North
+"Feb 22, 2025",Office item 11,Office,2,8.46,16.92,Store North
+"Feb 01, 2025",Office item 41,Office,5,£23.66,118.30,Store South
+2025/02/26,Grocery item 43,Grocery,1,£8.62,8.62,Store North
+02/09/2025,Outdoor item 49,Outdoor,3,18.47,55.41,Store South
+2025/02/23,Electronics item 02,Electronics,4,$46.50,186.00,Store North
+03-Feb-2025,Grocery item 68,Grocery,5,12.50,62.50,Store North
+02/11/2025,Grocery item 14,Grocery,5,$3.17,£15.85,Store South
+"Mar 01, 2025",Office item 61,Office,6,$4.94,29.64,Store South
+03/02/2025,Electronics item 77,Electronics,1,$20.98,$20.98,Store North
+"Feb 09, 2025",Electronics item 71,Electronics,3,12.44,37.32,Store South
+2025-02-06,Office item 16,Office,4,£3.40,£13.60,Store East
+23-Feb-2025,Grocery item 03,Grocery,2,4.78,9.56,Store South
+2025/02/06,Books item 10,Books,2,£8.26,$16.52,Store North
+2025/02/11,Office item 41,Office,-1,$12.48,49.92,Store South
+24-Feb-2025,Books item 15,Books,1,$7.77,7.77,Store North
+02/15/2025,Home item 87,Home,6,$4.31,25.86,Store East
+"Feb 27, 2025",Electronics item 07,Electronics,4,27.98,111.92,Store South
+"Feb 16, 2025",Grocery item 06,Grocery,4,7.87,31.48,Store North
+"Feb 19, 2025",Office item 41,Office,1,£4.68,$4.68,Store East
+02/11/2025,Office item 85,Office,2,£23.75,47.50,Store North
+19-Feb-2025,Outdoor item 77,Outdoor,5,35.31,176.55,Store North
+02/28/2025,Office item 23,Office,2,32.26,64.52,Store North
+2025/02/23,Outdoor item 40,Outdoor,3,£29.57,88.71,Store South
+02/20/2025,Outdoor item 86,Outdoor,3,£6.12,$18.36,Store South
+18-Feb-2025,Books item 67,Books,4,£5.81,£23.24,Store East
+26-Feb-2025,Electronics item 47,Electronics,1,48.80,48.80,Store East
+2025/03/02,Home item 42,Home,8,$4.74,37.92,Store North
+02/12/2025,Electronics item 76,Electronics,1,90.69,90.69,Store North
+"Feb 07, 2025",Grocery item 41,Grocery,3,5.97,17.91,Store South
+2025-02-01,Electronics item 80,Electronics,1,£33.67,33.67,Store South
+"Feb 22, 2025",Office item 79,Office,2,$14.84,29.68,Store North
+02/18/2025,Electronics item 24,Electronics,3,$41.07,123.21,Store South
+2025-02-22,Office item 26,Office,1,2.48,£2.48,Store South
+2025/02/10,Electronics item 14,Electronics,2,23.35,46.70,Store South
+14-Feb-2025,Grocery item 43,Grocery,2,19.04,$38.08,Store North
+2025-02-04,Grocery item 84,Grocery,3,4.33,12.99,Store West
+2025/02/18,Grocery item 11,Grocery,3,$5.33,15.99,Store South
+2025-02-15,Office item 78,Office,1,£14.93,$14.93,Store South
+2025/02/26,Grocery item 74,Grocery,3,6.01,18.03,Store West
+2025-02-22,Outdoor item 54,Outdoor,1,$35.17,35.17,Store West
+"Feb 19, 2025",Outdoor item 15,Outdoor,6,24.12,£144.72,Store North
+not-a-date,Home item 41,Home,1,52.28,52.28,Store North
+"Feb 02, 2025",Outdoor item 17,Outdoor,1,$31.19,31.19,Store West
+04-Feb-2025,Office item 39,Office,4,9.61,£38.44,Store North
+not-a-date,Office item 45,Office,1,6.76,6.76,Store East
+"Feb 04, 2025",Grocery item 42,Grocery,1,$6.00,£6.00,Store West
+2025/02/26,Grocery item 80,Grocery,3,8.08,24.24,Store North
+2025-02-02,Office item 29,Office,2,7.64,15.28,Store East
+2025/03/02,Electronics item 49,Electronics,4,£51.92,£207.68,Store East
+"Feb 01, 2025",Books item 51,Books,2,$9.42,18.84,Store North
+2025/02/14,Outdoor item 78,Outdoor,1,$33.34,33.34,Store North
+2025-02-02,Electronics item 32,Electronics,3,$28.48,£85.44,Store North
+2025/02/01,Books item 50,Books,4,3.71,$14.84,Store East
+"Feb 06, 2025",Electronics item 16,Electronics,2,37.87,75.74,Store West
+"Mar 02, 2025",Grocery item 50,Grocery,1,£2.12,2.12,Store East
+02-Feb-2025,Electronics item 55,Electronics,1,65.99,£65.99,Store North
+2025-02-23,Electronics item 77,Electronics,1,34.58,£34.58,Store East
+2025/02/28,Electronics item 52,Electronics,5,5.90,29.50,Store West
+12-Feb-2025,Grocery item 87,Grocery,5,4.15,20.75,Store North
+26-Feb-2025,Office item 60,Office,1,£3.10,3.10,Store South
+2025/02/26,Office item 33,Office,2,12.81,$25.62,Store West
+12-Feb-2025,Books item 36,Books,1,£3.74,£3.74,Store East
+13-Feb-2025,Office item 31,Office,1,9.24,9.24,Store West
+"Feb 20, 2025",Outdoor item 17,Outdoor,-1,9.23,£27.69,Store East
+,Electronics item 38,Electronics,4,£135.65,£542.60,Store North
+02/06/2025,Home item 54,Home,4,$12.84,51.36,Store North
+02/07/2025,Electronics item 80,Electronics,1,$26.26,$26.26,Store North
+2025-02-07,Electronics item 67,Electronics,2,27.68,£55.36,Store North
+26-Feb-2025,Books item 55,Books,1,£21.09,$21.09,Store South
+2025/02/01,Home item 40,Home,1,$27.47,$27.47,Store South
+2025/02/07,Books item 15,Books,7,$3.92,£27.44,Store North
+2025/02/08,Outdoor item 88,Outdoor,2,7.88,15.76,Store North
+2025-02-28,Books item 22,Books,2,£2.88,£5.76,Store South
+20-Feb-2025,Electronics item 51,Electronics,1,£35.14,$35.14,Store North
+2025/02/21,Outdoor item 10,Outdoor,3,£20.92,$62.76,Store North
+2025-02-22,Outdoor item 75,Outdoor,8,£16.10,£128.80,Store East
+2025-02-05,Electronics item 52,Electronics,4,21.08,£84.32,Store West
+13-Feb-2025,Home item 75,Home,6,29.13,$174.78,Store North
+20-Feb-2025,Outdoor item 45,Outdoor,8,£24.08,£192.64,Store East
+"Feb 23, 2025",Office item 69,Office,3,21.49,£64.47,Store South
+"Feb 05, 2025",Outdoor item 56,Outdoor,3,39.53,$118.59,Store North
+2025/02/24,Home item 20,Home,1,26.89,$26.89,Store North
+"Feb 23, 2025",Home item 57,Home,1,8.67,£8.67,Store North
+,Books item 73,Books,2,£14.25,28.50,Store North
+2025-02-22,Outdoor item 88,Outdoor,3,$36.17,£108.51,Store North
+2025-02-18,Outdoor item 03,Outdoor,8,4.19,33.52,Store South
+2025/02/16,Outdoor item 57,Outdoor,5,$32.03,$160.15,Store South
+2025-02-04,Books item 29,Books,1,5.41,£5.41,Store North
+2025/02/16,Grocery item 37,Grocery,1,8.27,£8.27,Store North
+23-Feb-2025,Electronics item 46,Electronics,1,41.35,41.35,Store South
+02/08/2025,Grocery item 73,Grocery,2,$3.76,$7.52,Store West
+2025/02/19,Books item 24,Books,-1,5.82,17.46,Store North
+02-Mar-2025,Grocery item 66,Grocery,5,$9.22,$46.10,Store North
+2025-02-28,Books item 51,Books,8,£10.46,$83.68,Store South
+2025-02-23,Books item 71,Books,2,21.57,$43.14,Store East
+2025/02/19,Electronics item 28,Electronics,3,$27.48,82.45,Store North
+2025-02-05,Outdoor item 21,Outdoor,2,£14.51,$29.02,Store South
+2025/02/09,Grocery item 65,Grocery,2,6.09,12.18,Store North
+"Feb 05, 2025",Home item 10,Home,1,£11.76,11.76,Store North
+2025-02-07,Grocery item 66,Grocery,3,6.60,£19.80,Store South
+2025/02/05,Books item 01,Books,1,£14.39,14.39,Store North
+2025/02/22,Office item 43,Office,1,4.36,4.36,Store East
+02/04/2025,Grocery item 10,Grocery,1,5.29,5.29,Store East
+02/01/2025,Books item 78,Books,3,$5.54,16.62,Store South
+"Feb 09, 2025",Office item 63,Office,6,10.25,61.50,Store South
+13-Feb-2025,Grocery item 83,Grocery,1,$7.56,7.56,Store South
+"Feb 01, 2025",Grocery item 18,Grocery,1,£1.99,1.99,Store North
+2025-02-24,Electronics item 24,Electronics,2,22.86,£45.72,Store East
+07-Feb-2025,Outdoor item 72,Outdoor,3,42.48,127.44,Store East
+"Feb 28, 2025",Outdoor item 39,Outdoor,1,$59.29,59.29,Store South
+"Feb 28, 2025",Office item 67,Office,6,$32.77,$196.62,Store North
+2025-02-24,Electronics item 33,Electronics,3,41.27,123.81,Store North
+"Feb 09, 2025",Electronics item 59,Electronics,3,43.13,129.39,Store North
+2025-02-21,Books item 46,Books,2,£1.99,3.98,Store South
+02/02/2025,Office item 26,Office,3,$5.75,£17.25,Store South
+2025/02/03,Outdoor item 77,Outdoor,4,22.25,89.00,Store North
+21-Feb-2025,Electronics item 74,Electronics,1,54.43,54.43,Store North
+02-Feb-2025,Home item 17,Home,5,£23.35,$116.75,Store North
+2025/03/02,Grocery item 33,Grocery,2,4.70,$9.40,Store East
+"Feb 06, 2025",Grocery item 27,Grocery,5,$4.72,23.60,Store East
+2025-03-01,Books item 20,Books,1,£11.36,11.36,Store North
+03/01/2025,Books item 75,Books,3,$8.79,$26.37,Store South
+,Electronics item 14,Electronics,8,$21.75,174.00,Store South
+03/02/2025,Outdoor item 19,Outdoor,8,$21.79,$174.32,Store North
+"Feb 08, 2025",Outdoor item 83,Outdoor,2,12.62,$25.24,Store North
+2025-03-02,Home item 39,Home,5,£29.68,£148.40,Store South
+"Feb 02, 2025",Electronics item 16,Electronics,8,$38.17,305.36,Store East
+02-Mar-2025,Electronics item 22,Electronics,1,$11.14,11.14,Store South
+2025-02-24,Home item 86,Home,4,$25.18,£100.72,Store North
+2025-02-19,Home item 58,Home,5,£33.23,166.15,Store East
+2025-02-24,Electronics item 30,Electronics,8,$29.93,239.44,Store South
+2025/02/08,Outdoor item 34,Outdoor,2,54.11,108.22,Store West
+"Feb 28, 2025",Home item 89,Home,1,£22.71,$22.71,Store South
+16-Feb-2025,Home item 37,Home,1,12.39,$12.39,Store East
+26-Feb-2025,Outdoor item 77,Outdoor,3,20.90,62.70,Store North
+"Feb 01, 2025",Grocery item 90,Grocery,4,7.98,£31.92,Store South
+2025-02-02,Grocery item 41,Grocery,2,£4.40,$8.80,Store East
+"Feb 09, 2025",Books item 02,Books,2,2.95,5.90,Store South
+02/22/2025,Electronics item 89,Electronics,1,35.09,$35.09,Store North
+02-Feb-2025,Grocery item 51,Grocery,3,5.34,16.02,Store East
+"Feb 08, 2025",Books item 79,Books,3,10.07,30.21,Store East
+not-a-date,Grocery item 08,Grocery,1,9.73,£9.73,Store East
+2025/02/21,Books item 07,Books,2,£5.21,$10.42,Store East
+02/19/2025,Home item 75,Home,6,21.99,£131.94,Store South
+2025-03-01,Outdoor item 68,Outdoor,2,$32.95,65.90,Store North
+02/25/2025,Outdoor item 45,Outdoor,1,£36.47,$36.47,Store West
+02/19/2025,Home item 75,Home,2,$13.58,$27.16,Store North
+"Feb 15, 2025",Books item 58,Books,2,£7.83,15.66,Store North
+11-Feb-2025,Books item 27,Books,1,4.12,$4.12,Store North
+"Feb 09, 2025",Grocery item 59,Grocery,2,$4.26,$8.52,Store North
+2025-02-10,Home item 23,Home,2,18.82,$37.64,Store East
+02/28/2025,Electronics item 60,Electronics,1,28.11,£28.11,Store North
+2025/02/05,Outdoor item 54,Outdoor,2,21.75,$43.50,Store North
+2025-02-16,Electronics item 35,Electronics,2,$19.91,39.82,Store South
+2025/02/20,Office item 60,Office,2,$22.19,44.38,Store North
+2025-02-18,Office item 39,Office,3,10.63,£31.89,Store North
+"Feb 09, 2025",Electronics item 22,Electronics,1,33.03,33.03,Store East
+17-Feb-2025,Office item 28,Office,1,6.22,£6.22,Store East
+01-Mar-2025,Home item 69,Home,2,£13.90,27.80,Store West
+"Feb 13, 2025",Grocery item 15,Grocery,6,$11.15,66.90,Store South
+23-Feb-2025,Home item 51,Home,4,51.54,£206.16,Store North
+02-Mar-2025,Electronics item 71,Electronics,6,48.60,$291.60,Store South
+"Feb 15, 2025",Outdoor item 85,Outdoor,4,$26.89,107.56,Store North
+2025-02-15,Grocery item 20,Grocery,3,£12.32,£36.96,Store North
+19-Feb-2025,Outdoor item 54,Outdoor,3,6.91,£20.73,Store East
+"Feb 27, 2025",Office item 68,Office,2,7.25,£14.50,Store North
+2025-02-19,Office item 60,Office,3,4.00,12.00,Store West
+2025-02-22,Outdoor item 06,Outdoor,2,26.39,$52.78,Store South
+2025/03/02,Office item 73,Office,2,14.02,$28.04,Store South
+2025-02-19,Office item 60,Office,7,4.08,£28.56,Store West
