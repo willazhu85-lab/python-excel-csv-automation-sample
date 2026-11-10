@@ -1,0 +1,4 @@
+ DATE ,Product,Category,Qty,Unit Price,Amount
+2025-01-01,Notebook,Office,2,$10.00,$20.00
+1/2/2025,Pen,Office,3,$5.00,$15.00
+,Folder,Office,1,$2.00,$2.00

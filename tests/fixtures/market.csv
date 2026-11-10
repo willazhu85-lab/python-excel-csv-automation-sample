@@ -1,0 +1,3 @@
+transaction date,product name,category,quantity,unit price,sales amount
+"Jan 03, 2025",Tea,Grocery,4,$3.00,$12.00
+not a date,Tea,Grocery,1,$3.00,$3.00
