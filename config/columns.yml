@@ -1,0 +1,9 @@
+# Canonical field: accepted source header names (case and whitespace ignored).
+columns:
+  date: [date, sale date, transaction date]
+  product: [product, item, product name]
+  category: [category, product category]
+  quantity: [quantity, qty, units]
+  unit_price: [unit price, price, price each]
+  amount: [amount, total, sales amount, revenue]
+required: [date, product, category, quantity, unit_price, amount]
