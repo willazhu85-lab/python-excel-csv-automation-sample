@@ -1,0 +1,61 @@
+source_file,source_row,reason
+demo_1.csv,6,missing required field: date
+demo_1.csv,19,invalid or missing date
+demo_1.csv,25,missing required field: date
+demo_1.csv,49,invalid or missing date
+demo_1.csv,106,invalid or missing date
+demo_1.csv,151,missing required field: date
+demo_1.csv,189,quantity must be a positive whole number
+demo_1.csv,200,amount mismatch: expected 58.02 from quantity x unit_price
+demo_1.csv,224,quantity must be a positive whole number
+demo_1.csv,234,missing required field: date
+demo_1.csv,287,invalid or missing date
+demo_1.csv,319,quantity must be a positive whole number
+demo_2.xlsx,25,quantity must be a positive whole number
+demo_2.xlsx,60,missing required field: date
+demo_2.xlsx,64,amount mismatch: expected 33.67 from quantity x unit_price
+demo_2.xlsx,84,duplicate row
+demo_2.xlsx,107,invalid or missing date
+demo_2.xlsx,129,amount mismatch: expected 88.92 from quantity x unit_price
+demo_2.xlsx,145,amount mismatch: expected 31.20 from quantity x unit_price
+demo_2.xlsx,167,invalid or missing date
+demo_2.xlsx,278,amount mismatch: expected 39.25 from quantity x unit_price
+demo_2.xlsx,309,invalid or missing date
+demo_3.csv,20,duplicate row
+demo_3.csv,24,duplicate row
+demo_3.csv,55,duplicate row
+demo_3.csv,89,quantity must be a positive whole number
+demo_3.csv,112,amount mismatch: expected 76.23 from quantity x unit_price
+demo_3.csv,121,quantity must be a positive whole number
+demo_3.csv,130,amount mismatch: expected 13.04 from quantity x unit_price
+demo_3.csv,132,duplicate row
+demo_3.csv,172,quantity must be a positive whole number
+demo_3.csv,200,invalid or missing date
+demo_3.csv,203,invalid or missing date
+demo_3.csv,222,quantity must be a positive whole number
+demo_3.csv,223,missing required field: date
+demo_3.csv,242,missing required field: date
+demo_3.csv,250,quantity must be a positive whole number
+demo_3.csv,254,amount mismatch: expected 82.44 from quantity x unit_price
+demo_3.csv,281,missing required field: date
+demo_3.csv,300,invalid or missing date
+demo_4.xlsx,25,invalid or missing date
+demo_4.xlsx,61,amount mismatch: expected 7.00 from quantity x unit_price
+demo_4.xlsx,118,quantity must be a positive whole number
+demo_4.xlsx,128,amount mismatch: expected 53.20 from quantity x unit_price
+demo_4.xlsx,134,amount mismatch: expected 15.13 from quantity x unit_price
+demo_4.xlsx,188,quantity must be a positive whole number
+demo_4.xlsx,189,duplicate row
+demo_4.xlsx,207,missing required field: date
+demo_4.xlsx,238,missing required field: date
+demo_4.xlsx,305,duplicate row
+demo_4.xlsx,318,missing required field: date
+demo_5.csv,7,missing required field: date
+demo_5.csv,36,duplicate row
+demo_5.csv,122,quantity must be a positive whole number
+demo_5.csv,128,amount mismatch: expected 368.24 from quantity x unit_price
+demo_5.csv,176,duplicate row
+demo_5.csv,208,duplicate row
+demo_5.csv,247,duplicate row
+demo_5.csv,273,invalid or missing date
+demo_5.csv,280,duplicate row
